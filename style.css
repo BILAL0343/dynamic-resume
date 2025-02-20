@@ -1,7 +1,7 @@
 /* Styleing form and resume section */
 
 body {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', 'sans-serif';
     margin: 20px;
     padding: 0;
     background-color:rgb(238,221,241);
@@ -61,7 +61,7 @@ input,textarea{
     box-shadow: 0 4px 8px  rgba(0,  0,  0 ,0.5);
     margin-top: 10px;
     font-size: 18px;
-    font-family:'times new roman',  Times, serif; 
+    font-family:'times new roman',  'Times', 'serif'; 
     padding: 10px;
     cursor: pointer;
  }
@@ -85,7 +85,7 @@ input,textarea{
 }
 
 Vbody {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', 'sans-serif';
     margin:20px;
     padding: 0;
     background-color: rgb(238,221,241);
@@ -144,7 +144,7 @@ button {
     box-shadow: 0 4px 8px rgba(0,  0,  0 ,0.5);
     margin-top: 10px;
     font-size: 18px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', 'Times', 'serif';
     padding: 10px;
     cursor: pointer;
 }
